@@ -590,7 +590,7 @@
                 "▢ *Publicado:*",
                 "*[ ℹ️ ] Se está enviando el audio. espere...*"
             ],
-            "texto3": "_*< DESCARGAS - SPOTIFY />*_\n\n[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto3": "_*< DESCARGAS - SPOTIFY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_spotifypro": {
             "texto1": "*[❗] Ingrese el link de algún track, playlist o álbum de Spotify o simplemente el nombre de una canción para buscar.*",
@@ -771,7 +771,7 @@
         },
         "downloader_yta_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
-            "texto2": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
+            "texto2": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ..._*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto3": [
                 "*◉—⌈📥 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐃𝐋 📥⌋—◉*\n❏ *𝚃𝙸𝚃𝚄𝙻𝙾:*",
                 "❏ *𝙿𝙴𝚂𝙾:*"
@@ -788,7 +788,7 @@
                 "*[❗] Para poder hacer uso del comando de esta forma",
                 "<numero>), por favor realiza la busqueda de videos con el comando"
             ],
-            "texto4": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
+            "texto4": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ..._*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto5": [
                 "*▢ Titulo:*",
                 "*▢ Peso Del Audio:*",
@@ -806,7 +806,7 @@
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
-            "texto2": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
+            "texto2": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ..._*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto3": [
                 "*◉—⌈📥 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐃𝐋 📥⌋—◉*\n❏ *𝚃𝙸𝚃𝚄𝙻𝙾:*",
                 "❏ *𝙿𝙴𝚂𝙾:* "
@@ -824,7 +824,7 @@
                 "*[❗] Para poder hacer uso del comando de esta forma",
                 "<numero>), por favor realiza la busqueda de videos con el comando"
             ],
-            "texto5": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
+            "texto5": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ..._*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto6": [
                 "*▢ Titulo:*",
                 "*▢ Peso Del Video:*",
@@ -832,9 +832,9 @@
                 " MB y supera el limite establecido por WhatsApp.*\n*◉ Titulo:*"
             ],
             "texto7": [
-                "`*▢ Titulo:*",
+                "*▢ Titulo:*",
                 "*▢ Peso Del Video:*",
-                "`*[ ✔ ] Video descargado exitosamente.*"
+                "*[ ✔ ] Video descargado exitosamente.*"
             ],
             "texto8": "*[ ❌ ] El video no pudo ser descargado ni enviado, vuelva a intentarlo.*",
             "texto9": "*[❗] Error, no fue posible descargar el video.*"
@@ -2938,7 +2938,8 @@
                 "*<nombre sala>*_"
             ],
             "texto2": "Opciones de idioma 🌎",
-            "texto3": "_lenguaje grupal_"
+            "texto3": "_lenguaje grupal_",
+            "texto4": " *_🚀 Nuevo juego de rol para minería_*"
         },
         "mipilot_serbot_broadcast": {
             "texto1": "*〔 DIFUSION A SUB BOTS 〕*\n\n",
@@ -3867,5 +3868,18 @@
                 "*[ ℹ️ ] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
             ]
         }
-    }
+    },
+    "BK9": {
+        "BK9": {
+            "bk9dalletext": "Por favor ingrese texto, por ejemplo\n .bk9img Una casa azul en una naturaleza pintoresca",
+            "bk9dallewait": "cargando ...",
+            "bk9dalleerr": "No se pudo crear la imagen. Por favor, inténtelo de nuevo más tarde.",
+            "bk9text": "Por favor ingrese texto, ejemplo: \n.bk9 Hola, ¿cómo estás?",
+            "bk9err": "Se produjo un error al procesar su solicitud.",
+            "bk9imgtext": "Responde a una imagen y escribe tu pregunta\n\nEjemplo: .bk9img quién es (no olvides responder a una imagen)",
+            "bk9LText_T": "Si lo quieres sin personalización,:\n.bk9short y ponle un enlace\nEjemplo:\n.bk9short https://bk9.site/\nSi lo quieres personalizado:\n.Short, ponle un enlace + el word\nEjemplo:\n.bk9short https://bk9.site/ + Suii",
+            "bk9LTaked_T": "Esta personalización ha sido realizada, pruebe con otra."
+        }
+
+        }
 }
